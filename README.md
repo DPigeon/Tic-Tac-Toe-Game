@@ -7,3 +7,4 @@ Next steps:
 - Add AI
 - Maybe make a user interface
 - Make it more user friendly
+- Make it so the game restarts when nobody won.
