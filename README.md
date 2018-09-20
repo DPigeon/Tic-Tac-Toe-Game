@@ -8,3 +8,5 @@ Next steps:
 - Maybe make a user interface
 - Make it more user friendly
 - Make it so the game restarts when nobody won.
+
+More informations on the Wiki (https://github.com/DPigeon/Tic-Tac-Toe-Game/wiki).
